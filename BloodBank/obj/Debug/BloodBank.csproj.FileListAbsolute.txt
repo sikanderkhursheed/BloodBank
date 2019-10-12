@@ -1,0 +1,46 @@
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+c:\users\hp\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Main.resources
+C:\Users\HP\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Patient.resources
+C:\Users\HP\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.BloodTable.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBank.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\bin\Debug\BloodBank.mdf
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\bin\Debug\BloodBank_log.ldf
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBank.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.BloodTable.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.Login.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.Main.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.Patient.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\'\Desktop\sikander\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+D:\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+D:\BloodBank\BloodBank\bin\Debug\BloodBank.mdf
+D:\BloodBank\BloodBank\bin\Debug\BloodBank_log.ldf
+D:\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+D:\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.BloodBank.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.BloodTable.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.Login.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.Main.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.Patient.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+D:\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\HP\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\HP\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
